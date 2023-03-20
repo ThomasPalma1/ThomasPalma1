@@ -26,11 +26,4 @@
 </p>
 
 
-
-<p align="center"> 
-   <a href="https://visitcount.itsvg.i">
-   <img src="https://visitcount.itsvg.in/api?id=ThomasPalma1&icon=8&color=1" />
-   </a>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=cobalt&height=120&section=footer"/>
