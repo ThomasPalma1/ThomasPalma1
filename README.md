@@ -16,18 +16,19 @@ def personal_info():
             value = ", ".join(value)
         print(f"{key}: {value}")
 
+
 personal_info()
 ```
 
 <p align="center"> 
    <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=thomaspalma1&show_icons=true&theme=prussian&hide=issues,stars" width="318"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=thomaspalma1&show_icons=true&theme=prussian&hide=issues,stars" />
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasPalma1&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6&hide=css,php,html,hack,jupyter%20notebook,tsql,c%2B%2B,objective-c,objective-c%2B%2B,ejs,ruby,starlark" width="318"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasPalma1&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6&hide=css,php,html,hack,jupyter%20notebook,tsql,c%2B%2B,objective-c,objective-c%2B%2B,ejs,ruby,starlark" height="150"/>
    </a>
    <a href="https://github-readme-streak-stats.herokuapp.com/">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasPalma1&theme=prussian&hide_border=false" width="318"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasPalma1&theme=prussian&hide_border=false"/>
    </a>
 </p>
 
