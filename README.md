@@ -27,7 +27,7 @@ personal_information()
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasPalma1&theme=prussian&hide_border=false" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasPalma1&theme=prussian&hide_border=false&card_width=355" 
     />
   </a>
 </p>
@@ -35,9 +35,9 @@ personal_information()
 <p align="center">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
    <i class="devicon-bash-plain colored"></i>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 </a>
 </p>
