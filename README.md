@@ -1,43 +1,5 @@
-```Python
-def personal_information():
-    info = {
-        "Name": "Thomas Palma",
-        "Age": 21,
-        "City": "Caçapava",
-        "State": "São Paulo",
-        "Country": "Brazil",
-        "Interests": ["DevOps", "Software Development"]
-    }
+<h2><p align="justify">Greetings!</p></h2>
+<p align="justify">I'm happy to see you here on my GitHub profile. My name is Thomas Palma and I'm from Brazil. I'm a <code><b>Systems Development</b></code> technician, graduated from Etec Machado de Assis, in <a href="https://en.wikipedia.org/wiki/Ca%C3%A7apava">Caçapava</a>. I also have a degree in <code><b>Systems Analysis and Development</b></code> from Fatec Prof. Jessen Vidal, in <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos">São José dos Campos</a>. I have a strong interest in <code><b>Software Development</b></code> and <code><b>DevOps</b></code>, and I'm constantly improving my knowledge in technologies related to these areas, seeking to deepen my expertise in systems development and management. Feel free to explore my profile and check out my projects.</p>
 
-    for key, value in info.items():
-        if isinstance(value, list):
-            value = ", ".join(value)
-        print(f"{key}: {value}")
-
-
-personal_information()
-```
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasPalma1&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=6&hide=css,php,html,hack,jupyter%20notebook,tsql,c%2B%2B,objective-c,objective-c%2B%2B,ejs,ruby,starlark"
-      height="195" width="355"
-    />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasPalma1&theme=prussian&hide_border=false&card_width=355" 
-    />
-  </a>
-</p>
-
-<p align="center">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-   <i class="devicon-bash-plain colored"></i>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-</a>
-</p>
+<h2>Contact:</h2>
+<p align="justify">You can contact me whenever you want. Just send me a message through my <a href="https://www.linkedin.com/in/thomaspalma1/">LinkedIn</a> profile!</p>
